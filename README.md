@@ -1,7 +1,12 @@
+Source Code Origin
+=============
+
+This is a fork of "[zootreeves/Objective-C-HMTL-Parser](https://github.com/zootreeves/Objective-C-HMTL-Parser)" repository.
+
 ```
-This is a fork of "zootreeves/Objective-C-HMTL-Parser" repository.
-For details see https://github.com/zootreeves/Objective-C-HMTL-Parser
+License : public domain
 ```
+
 
 
 Example Usage
